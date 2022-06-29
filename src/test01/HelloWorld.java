@@ -18,6 +18,7 @@ public class HelloWorld {
         System.out.println("merge hot-fix");
         System.out.println("hot-fix");
         System.out.println("hot-fix");
+        System.out.println("change code and push");
     }
 }
 
