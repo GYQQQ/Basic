@@ -19,7 +19,7 @@ public class HelloWorld {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("change code and push");
-        System.out.println("change code and push2");
+        System.out.println("change code and pull");
     }
 }
 
