@@ -14,6 +14,7 @@ public class HelloWorld {
         String userName;
         final int MY_AGE = 18;
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
 
