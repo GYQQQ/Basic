@@ -15,6 +15,7 @@ public class HelloWorld {
         final int MY_AGE = 18;
         System.out.println("change the code!");
         System.out.println("change the code2!");
+        System.out.println("merge hot-fix");
     }
 }
 
